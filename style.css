@@ -1,8 +1,9 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://media.giphy.com/media/sdhDlTkeu7tK/giphy.gif");
       background-size: cover;
       color: white;
+    
     }
     .nav {
       color: white;
